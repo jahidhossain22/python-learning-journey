@@ -49,4 +49,26 @@ Projects will be added as I progress through the learning roadmap.
 
 ---
 
-*This repository is a work in progress and will be updated throughout my Python learning journey.*
+
+## My First Python Project
+
+### Expense Tracker
+
+A simple, menu-driven Python application that allows users to record expenses and calculate their total spending.
+
+**Features**
+- Add expenses with a date, category, description, and amount.
+- View all recorded expenses.
+- Calculate total expenses.
+- Navigate through an interactive menu.
+
+**Concepts Practiced**
+- Variables and user input
+- Lists and dictionaries
+- Loops and conditional statements
+- Exception handling
+- Numeric type conversion
+
+**Current Limitation:** Expenses are stored in memory and are lost when the program exits.
+
+**Future Improvements:** Add file storage and category-wise expense summaries.
